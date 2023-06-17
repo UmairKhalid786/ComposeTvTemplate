@@ -1,7 +1,7 @@
 # ComposeTvTemplate
-A template designed with very basic setup ready to start developing apps for compose TV
+A template designed with a very basic setup ready to start developing apps for Compose TV
 
-- TV related manifest 
+- TV-related manifest 
 - Compose DOM
 - Compose TV dependencies 
 - Compose TV material theme 
