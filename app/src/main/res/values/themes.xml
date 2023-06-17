@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.ComposeTvTemplate" parent="@style/Theme.Leanback" />
+</resources>
